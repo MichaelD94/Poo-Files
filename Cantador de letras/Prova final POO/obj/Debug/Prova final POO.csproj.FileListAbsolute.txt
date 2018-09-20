@@ -1,0 +1,10 @@
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\bin\Debug\Prova final POO.exe.config
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\bin\Debug\Prova final POO.exe
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\bin\Debug\Prova final POO.pdb
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova final POO.csprojResolveAssemblyReference.cache
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova_final_POO.Form1.resources
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova_final_POO.Properties.Resources.resources
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova final POO.csproj.GenerateResource.cache
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova final POO.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova final POO.exe
+C:\Users\maico\source\repos\Prova final POO\Prova final POO\obj\Debug\Prova final POO.pdb

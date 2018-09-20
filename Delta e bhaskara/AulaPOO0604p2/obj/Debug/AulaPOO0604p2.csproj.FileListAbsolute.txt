@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\bin\Debug\AulaPOO0604p2.exe.config
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\bin\Debug\AulaPOO0604p2.exe
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\bin\Debug\AulaPOO0604p2.pdb
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\obj\Debug\AulaPOO0604p2.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\obj\Debug\AulaPOO0604p2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\obj\Debug\AulaPOO0604p2.exe
+C:\Users\Michael Douglas\source\repos\AulaPOO0604p2\AulaPOO0604p2\obj\Debug\AulaPOO0604p2.pdb

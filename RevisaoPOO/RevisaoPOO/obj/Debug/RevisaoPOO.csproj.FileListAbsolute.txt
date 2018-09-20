@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\bin\Debug\RevisaoPOO.exe.config
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\bin\Debug\RevisaoPOO.exe
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\bin\Debug\RevisaoPOO.pdb
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\obj\Debug\RevisaoPOO.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\obj\Debug\RevisaoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\obj\Debug\RevisaoPOO.exe
+C:\Users\Michael Douglas\source\repos\RevisaoPOO\RevisaoPOO\obj\Debug\RevisaoPOO.pdb

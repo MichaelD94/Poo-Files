@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\bin\Debug\OperaBanco.exe.config
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\bin\Debug\OperaBanco.exe
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\bin\Debug\OperaBanco.pdb
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\obj\Debug\OperaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\obj\Debug\OperaBanco.exe
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\obj\Debug\OperaBanco.pdb
+C:\Users\Michael Douglas\source\repos\OperaBanco\OperaBanco\obj\Debug\OperaBanco.csprojResolveAssemblyReference.cache

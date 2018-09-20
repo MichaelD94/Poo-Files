@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Código>200318445621</Código>
+    <Nome>aaa</Nome>
+    <Telefone>aaa</Telefone>
+    <Email>aaa</Email>
+  </Aluno>
+  <Aluno>
+    <Código>200318485621</Código>
+    <Nome>bbb</Nome>
+    <Telefone>bbb</Telefone>
+    <Email>bbb</Email>
+  </Aluno>
+  <Aluno>
+    <Código>200318515621</Código>
+    <Nome>ccc</Nome>
+    <Telefone>cc</Telefone>
+    <Email>cc</Email>
+  </Aluno>
+</ArrayOfAluno>

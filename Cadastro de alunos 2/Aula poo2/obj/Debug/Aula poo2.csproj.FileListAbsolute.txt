@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\bin\Debug\Aula poo2.exe.config
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\bin\Debug\Aula poo2.exe
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\bin\Debug\Aula poo2.pdb
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\obj\Debug\Aula poo2.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\obj\Debug\Aula poo2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\obj\Debug\Aula poo2.exe
+C:\Users\Michael Douglas\source\repos\Aula poo2\Aula poo2\obj\Debug\Aula poo2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperaBanco", "OperaBanco\OperaBanco.csproj", "{02A5C60F-C96B-4B22-9342-F58B747D4A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A5C60F-C96B-4B22-9342-F58B747D4A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A5C60F-C96B-4B22-9342-F58B747D4A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A5C60F-C96B-4B22-9342-F58B747D4A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A5C60F-C96B-4B22-9342-F58B747D4A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEAC1788-007A-461D-8E9D-A7DBF6D8E8F1}
+	EndGlobalSection
+EndGlobal

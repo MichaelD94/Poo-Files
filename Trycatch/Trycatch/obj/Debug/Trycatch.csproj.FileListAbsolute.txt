@@ -1,0 +1,7 @@
+C:\Users\maico\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.exe.config
+C:\Users\maico\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.exe
+C:\Users\maico\source\repos\Trycatch\Trycatch\bin\Debug\Trycatch.pdb
+C:\Users\maico\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.csprojResolveAssemblyReference.cache
+C:\Users\maico\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.exe
+C:\Users\maico\source\repos\Trycatch\Trycatch\obj\Debug\Trycatch.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\obj\Debug\Operações Numerais.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\obj\Debug\Operações Numerais.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\bin\Debug\Operações Numerais.exe.config
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\bin\Debug\Operações Numerais.exe
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\bin\Debug\Operações Numerais.pdb
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\obj\Debug\Operações Numerais.exe
+C:\Users\Michael Douglas\source\repos\Operações Numerais\Operações Numerais\obj\Debug\Operações Numerais.pdb

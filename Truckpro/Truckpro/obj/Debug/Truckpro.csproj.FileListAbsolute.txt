@@ -1,0 +1,11 @@
+C:\Users\maico\source\repos\Truckpro\Truckpro\bin\Debug\Truckpro.exe.config
+C:\Users\maico\source\repos\Truckpro\Truckpro\bin\Debug\Truckpro.exe
+C:\Users\maico\source\repos\Truckpro\Truckpro\bin\Debug\Truckpro.pdb
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.csprojResolveAssemblyReference.cache
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.Form1.resources
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.Form2.resources
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.Properties.Resources.resources
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.csproj.GenerateResource.cache
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.exe
+C:\Users\maico\source\repos\Truckpro\Truckpro\obj\Debug\Truckpro.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\bin\Debug\agdbetim.exe.config
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\bin\Debug\agdbetim.exe
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\bin\Debug\agdbetim.pdb
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\obj\Debug\agdbetim.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\obj\Debug\agdbetim.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\obj\Debug\agdbetim.exe
+C:\Users\Michael Douglas\source\repos\agdbetim\agdbetim\obj\Debug\agdbetim.pdb

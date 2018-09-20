@@ -1,0 +1,6 @@
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\bin\Debug\ExercicioTad2.exe.config
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\bin\Debug\ExercicioTad2.exe
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\bin\Debug\ExercicioTad2.pdb
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\obj\Debug\ExercicioTad2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\obj\Debug\ExercicioTad2.exe
+C:\Users\Michael Douglas\source\repos\ExercicioTad2\ExercicioTad2\obj\Debug\ExercicioTad2.pdb

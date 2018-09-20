@@ -1,0 +1,7 @@
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\obj\Debug\AulaAgendaBetim.csprojResolveAssemblyReference.cache
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\obj\Debug\AulaAgendaBetim.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\bin\Debug\AulaAgendaBetim.exe.config
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\bin\Debug\AulaAgendaBetim.exe
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\bin\Debug\AulaAgendaBetim.pdb
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\obj\Debug\AulaAgendaBetim.exe
+C:\Users\Victor\source\repos\AulaAgendaBetim\AulaAgendaBetim\obj\Debug\AulaAgendaBetim.pdb

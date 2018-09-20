@@ -1,0 +1,6 @@
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\bin\Debug\BibPuc.dll
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\bin\Debug\BibPuc.pdb
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\obj\Debug\BibPuc.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\obj\Debug\BibPuc.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\obj\Debug\BibPuc.dll
+C:\Users\Michael Douglas\source\repos\BibPuc\BibPuc\obj\Debug\BibPuc.pdb

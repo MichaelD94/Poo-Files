@@ -1,0 +1,11 @@
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\bin\Debug\TrabalhoFilosofia.exe.config
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\bin\Debug\TrabalhoFilosofia.exe
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\bin\Debug\TrabalhoFilosofia.pdb
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.Form1.resources
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.Properties.Resources.resources
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.csproj.GenerateResource.Cache
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.exe
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.pdb
+C:\Users\Michael Douglas\source\repos\TrabalhoFilosofia\TrabalhoFilosofia\obj\Debug\TrabalhoFilosofia.Form2.resources

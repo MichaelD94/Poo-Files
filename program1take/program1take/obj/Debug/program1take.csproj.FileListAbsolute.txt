@@ -1,0 +1,7 @@
+C:\Users\maico\source\repos\program1take\program1take\bin\Debug\program1take.exe.config
+C:\Users\maico\source\repos\program1take\program1take\bin\Debug\program1take.exe
+C:\Users\maico\source\repos\program1take\program1take\bin\Debug\program1take.pdb
+C:\Users\maico\source\repos\program1take\program1take\obj\Debug\program1take.csprojResolveAssemblyReference.cache
+C:\Users\maico\source\repos\program1take\program1take\obj\Debug\program1take.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\program1take\program1take\obj\Debug\program1take.exe
+C:\Users\maico\source\repos\program1take\program1take\obj\Debug\program1take.pdb

@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\bin\Debug\BernardoFullPistola.exe.config
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\bin\Debug\BernardoFullPistola.exe
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\bin\Debug\BernardoFullPistola.pdb
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\obj\Debug\BernardoFullPistola.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\obj\Debug\BernardoFullPistola.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\obj\Debug\BernardoFullPistola.exe
+C:\Users\Michael Douglas\source\repos\BernardoFullPistola\BernardoFullPistola\obj\Debug\BernardoFullPistola.pdb

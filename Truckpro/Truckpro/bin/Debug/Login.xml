@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfLoginInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LoginInfo>
+    <Login />
+    <Senha />
+  </LoginInfo>
+  <LoginInfo>
+    <Login>mm</Login>
+    <Senha>mm</Senha>
+  </LoginInfo>
+  <LoginInfo>
+    <Login>,mjgkj</Login>
+    <Senha>nhjh</Senha>
+  </LoginInfo>
+  <LoginInfo>
+    <Login>Michael</Login>
+    <Senha>6896</Senha>
+  </LoginInfo>
+  <LoginInfo>
+    <Login>admin</Login>
+    <Senha>admin</Senha>
+  </LoginInfo>
+</ArrayOfLoginInfo>

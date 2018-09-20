@@ -1,0 +1,7 @@
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\obj\Debug\Truck cnsl.csprojResolveAssemblyReference.cache
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\obj\Debug\Truck cnsl.csproj.CoreCompileInputs.cache
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\bin\Debug\Truck cnsl.exe.config
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\bin\Debug\Truck cnsl.exe
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\bin\Debug\Truck cnsl.pdb
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\obj\Debug\Truck cnsl.exe
+C:\Users\maico\source\repos\Truck cnsl\Truck cnsl\obj\Debug\Truck cnsl.pdb

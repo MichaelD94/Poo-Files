@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\bin\Debug\abstractclasses.exe.config
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\bin\Debug\abstractclasses.exe
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\bin\Debug\abstractclasses.pdb
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\obj\Debug\abstractclasses.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\obj\Debug\abstractclasses.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\obj\Debug\abstractclasses.exe
+C:\Users\Michael Douglas\source\repos\abstractclasses\abstractclasses\obj\Debug\abstractclasses.pdb

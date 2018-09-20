@@ -1,0 +1,7 @@
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\bin\Debug\ExercicioTad1.exe.config
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\bin\Debug\ExercicioTad1.exe
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\bin\Debug\ExercicioTad1.pdb
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\obj\Debug\ExercicioTad1.csprojResolveAssemblyReference.cache
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\obj\Debug\ExercicioTad1.csproj.CoreCompileInputs.cache
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\obj\Debug\ExercicioTad1.exe
+C:\Users\Michael Douglas\source\repos\ExercicioTad1\ExercicioTad1\obj\Debug\ExercicioTad1.pdb
